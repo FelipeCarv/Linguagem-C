@@ -1,0 +1,14 @@
+Bidu	 Poodle	 Tosa e banho
+ 15.000000
+Billy	 Labrador	 Banho
+ 14.360000
+Lily	 Poodle	 Banho
+ 15.000000
+Sabrina	 Hasking	 Vacinacao e Banho
+ 9.380000
+Sagwsa	 Siames	 Banho
+ 15.560000
+Spike	 Bulldog	 Vacinacao
+ 10.000000
+Tiara	 Vira lata	 Exame
+ 8.100000

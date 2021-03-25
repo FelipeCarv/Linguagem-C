@@ -1,0 +1,6 @@
+Billy	Labrador	M	2	Banho	14.36
+Sagwsa	Siames		F	3	Banho	15.56
+Spike	Bulldog		M	4	Vacinacao	10.00
+Bidu	Poodle		M	1	Tosa e banho	15.00
+Tiara	Vira lata	F	2	Exame	8.10
+Sabrina	Hasking		F	4	Vacinacao e Banho	9.38

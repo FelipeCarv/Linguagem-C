@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1564536393 source:c:\users\asus\desktop\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"interacao.h"
+	"animais.h"
+	"relatorio.h"
+
+1564529169 source:c:\users\asus\desktop\projeto\interacao.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	"interacao.h"
+
+1564529169 c:\users\asus\desktop\projeto\interacao.h
+
+1564537125 source:c:\users\asus\desktop\projeto\animais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"animais.h"
+
+1564536350 c:\users\asus\desktop\projeto\animais.h
+
+1564535007 source:c:\users\asus\desktop\projeto\relatorio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"relatorio.h"
+
+1564532820 c:\users\asus\desktop\projeto\relatorio.h
+
+1564537125 source:c:\users\felip\desktop\projeto\animais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"animais.h"
+
+1564536350 c:\users\felip\desktop\projeto\animais.h
+
+1564529169 source:c:\users\felip\desktop\projeto\interacao.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	"interacao.h"
+
+1564529169 c:\users\felip\desktop\projeto\interacao.h
+
+1564536393 source:c:\users\felip\desktop\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"interacao.h"
+	"animais.h"
+	"relatorio.h"
+
+1564532820 c:\users\felip\desktop\projeto\relatorio.h
+
+1564535007 source:c:\users\felip\desktop\projeto\relatorio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"relatorio.h"
+
+1564537126 source:d:\documentos\햞ea de trabalho\faculdade\estruturas de dados\projeto labed\projeto laed_2019.1\projeto\animais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"animais.h"
+
+1564536352 d:\documentos\햞ea de trabalho\faculdade\estruturas de dados\projeto labed\projeto laed_2019.1\projeto\animais.h
+
+1564529170 source:d:\documentos\햞ea de trabalho\faculdade\estruturas de dados\projeto labed\projeto laed_2019.1\projeto\interacao.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	"interacao.h"
+
+1564529170 d:\documentos\햞ea de trabalho\faculdade\estruturas de dados\projeto labed\projeto laed_2019.1\projeto\interacao.h
+
+1564536394 source:d:\documentos\햞ea de trabalho\faculdade\estruturas de dados\projeto labed\projeto laed_2019.1\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"interacao.h"
+	"animais.h"
+	"relatorio.h"
+
+1564532822 d:\documentos\햞ea de trabalho\faculdade\estruturas de dados\projeto labed\projeto laed_2019.1\projeto\relatorio.h
+
+1579575670 source:d:\documentos\햞ea de trabalho\faculdade\estruturas de dados\projeto labed\projeto laed_2019.1\projeto\relatorio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"relatorio.h"
+

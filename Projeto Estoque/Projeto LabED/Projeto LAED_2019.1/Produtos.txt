@@ -1,0 +1,14 @@
+PRODUTO		QUANTIDADE		PREÇO
+
+Arroz Branco		01			R$ 3,00
+Arroz Parb.		01			R$ 3,00
+Arroz Inte.		01			R$ 3,00
+Arroz Chinês		01			R$ 3,00
+
+Feijão Carioca		01			R$ 3,00
+Feijão Branco		01			R$ 3,00
+Feijão Preto		01			R$ 3,00
+Feijão Fava		01			R$ 3,00
+
+Abacaxi       		1         		R$4,00
+AbacaxiVerd.       		1         		R$4,00

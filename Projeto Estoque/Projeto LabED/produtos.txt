@@ -1,0 +1,3 @@
+NOME:feijao
+QUANTIDADE:1
+PREÇO3,00

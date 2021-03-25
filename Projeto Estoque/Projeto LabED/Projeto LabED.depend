@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1565786180 source:c:\users\felip\desktop\projeto labed\controle.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	"controle.h"
+
+1565767484 c:\users\felip\desktop\projeto labed\controle.h
+
+1565786180 source:c:\users\felip\desktop\projeto labed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista_itens.h"
+	"controle.h"
+	"relacao.h"
+
+1565782657 c:\users\felip\desktop\projeto labed\lista_itens.h
+
+1565771744 c:\users\felip\desktop\projeto labed\relacao.h
+
+1565809944 source:c:\users\felip\desktop\projeto labed\lista_itens.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Lista_itens.h"
+
+1565809410 source:c:\users\felip\desktop\projeto labed\relacao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"relacao.h"
+
